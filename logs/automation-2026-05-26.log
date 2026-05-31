@@ -1,0 +1,59 @@
+22:49:16.044 [main] INFO  testCases.TC1_AccountRegTest-******Starting TC1_AccountRegTest  ******
+ 22:49:16.678 [main] INFO  testCases.TC1_AccountRegTest-Clicked on register
+ 22:49:16.678 [main] INFO  testCases.TC1_AccountRegTest-Providing customer details....
+ 22:49:18.625 [main] INFO  testCases.TC1_AccountRegTest-Validating expected message....
+ 22:49:18.673 [main] INFO  testCases.TC1_AccountRegTest-******Finished TC1_AccountRegTest  ******
+ 22:49:56.990 [main] DEBUG org.testng.TestNG-suiteXmlPath: "C:\workspace\SeleniumJava Automation\AutomationFrameworkPavan2\master.xml"
+ 22:49:57.251 [main] INFO  org.testng.internal.Utils-[TestNG] Running:
+  C:\workspace\SeleniumJava Automation\AutomationFrameworkPavan2\master.xml
+
+ 22:50:07.616 [main] INFO  testCases.TC1_AccountRegTest-******Starting TC1_AccountRegTest  ******
+ 22:50:08.338 [main] INFO  testCases.TC1_AccountRegTest-Clicked on register
+ 22:50:08.346 [main] INFO  testCases.TC1_AccountRegTest-Providing customer details....
+ 22:50:10.144 [main] INFO  testCases.TC1_AccountRegTest-Validating expected message....
+ 22:50:10.208 [main] INFO  testCases.TC1_AccountRegTest-******Finished TC1_AccountRegTest  ******
+ 22:50:30.770 [main] DEBUG org.testng.TestNG-suiteXmlPath: "C:\workspace\SeleniumJava Automation\AutomationFrameworkPavan2\master.xml"
+ 22:50:31.141 [main] INFO  org.testng.internal.Utils-[TestNG] Running:
+  C:\workspace\SeleniumJava Automation\AutomationFrameworkPavan2\master.xml
+
+ 22:50:49.438 [main] INFO  testCases.TC1_AccountRegTest-******Starting TC1_AccountRegTest  ******
+ 22:50:50.026 [main] INFO  testCases.TC1_AccountRegTest-Clicked on register
+ 22:50:50.026 [main] INFO  testCases.TC1_AccountRegTest-Providing customer details....
+ 22:50:51.917 [main] INFO  testCases.TC1_AccountRegTest-Validating expected message....
+ 22:50:51.963 [main] INFO  testCases.TC1_AccountRegTest-******Finished TC1_AccountRegTest  ******
+ 22:52:14.386 [main] DEBUG org.testng.TestNG-suiteXmlPath: "C:\workspace\SeleniumJava Automation\AutomationFrameworkPavan2\master.xml"
+ 22:52:14.595 [main] INFO  org.testng.internal.Utils-[TestNG] Running:
+  C:\workspace\SeleniumJava Automation\AutomationFrameworkPavan2\master.xml
+
+ 22:52:20.788 [main] INFO  testCases.TC1_AccountRegTest-******Starting TC1_AccountRegTest  ******
+ 22:52:21.526 [main] INFO  testCases.TC1_AccountRegTest-Clicked on register
+ 22:52:21.530 [main] INFO  testCases.TC1_AccountRegTest-Providing customer details....
+ 22:52:23.419 [main] INFO  testCases.TC1_AccountRegTest-Validating expected message....
+ 22:52:23.473 [main] INFO  testCases.TC1_AccountRegTest-******Finished TC1_AccountRegTest  ******
+ 22:53:12.865 [main] DEBUG org.testng.TestNG-suiteXmlPath: "C:\workspace\SeleniumJava Automation\AutomationFrameworkPavan2\master.xml"
+ 22:53:13.114 [main] INFO  org.testng.internal.Utils-[TestNG] Running:
+  C:\workspace\SeleniumJava Automation\AutomationFrameworkPavan2\master.xml
+
+ 22:53:21.981 [main] INFO  testCases.TC1_AccountRegTest-******Starting TC1_AccountRegTest  ******
+ 22:53:22.794 [main] INFO  testCases.TC1_AccountRegTest-Clicked on register
+ 22:53:22.801 [main] INFO  testCases.TC1_AccountRegTest-Providing customer details....
+ 22:53:24.749 [main] INFO  testCases.TC1_AccountRegTest-Validating expected message....
+ 22:53:24.795 [main] INFO  testCases.TC1_AccountRegTest-******Finished TC1_AccountRegTest  ******
+ 23:25:04.162 [main] DEBUG org.testng.TestNG-suiteXmlPath: "C:\workspace\SeleniumJava Automation\AutomationFrameworkPavan2\crossbrowsertesting.xml"
+ 23:25:04.561 [main] INFO  org.testng.internal.Utils-[TestNG] Running:
+  C:\workspace\SeleniumJava Automation\AutomationFrameworkPavan2\crossbrowsertesting.xml
+
+ 23:25:15.207 [TestNG-tests-3] INFO  testCases.TC1_AccountRegTest-******Starting TC1_AccountRegTest  ******
+ 23:25:16.029 [TestNG-tests-3] INFO  testCases.TC1_AccountRegTest-Clicked on register
+ 23:25:16.043 [TestNG-tests-3] INFO  testCases.TC1_AccountRegTest-Providing customer details....
+ 23:25:16.539 [TestNG-tests-1] INFO  testCases.TC1_AccountRegTest-******Starting TC1_AccountRegTest  ******
+ 23:25:19.606 [TestNG-tests-1] INFO  testCases.TC1_AccountRegTest-Clicked on register
+ 23:25:19.606 [TestNG-tests-1] INFO  testCases.TC1_AccountRegTest-Providing customer details....
+ 23:25:20.080 [TestNG-tests-3] INFO  testCases.TC1_AccountRegTest-Validating expected message....
+ 23:25:20.122 [TestNG-tests-3] INFO  testCases.TC1_AccountRegTest-******Finished TC1_AccountRegTest  ******
+ 23:25:21.167 [TestNG-tests-1] INFO  testCases.TC1_AccountRegTest-Validating expected message....
+ 23:25:21.209 [TestNG-tests-1] INFO  testCases.TC1_AccountRegTest-******Finished TC1_AccountRegTest  ******
+ 23:25:22.368 [TestNG-tests-2] INFO  testCases.TC1_AccountRegTest-******Starting TC1_AccountRegTest  ******
+ 23:25:23.022 [TestNG-tests-2] INFO  testCases.TC1_AccountRegTest-Clicked on register
+ 23:25:23.022 [TestNG-tests-2] INFO  testCases.TC1_AccountRegTest-Providing customer details....
+ 
