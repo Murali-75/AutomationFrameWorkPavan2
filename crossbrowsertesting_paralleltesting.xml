@@ -16,7 +16,7 @@
 		<parameter name="browser" value="chrome" />
 		<classes>
 			<class name="testCases.TC1_AccountRegTest" />
-			<class name="testBase.BaseClass" />
+			
 		</classes>
 	</test> <!--
 	Test -->
@@ -26,7 +26,7 @@
 		<parameter name="browser" value="firefox" />
 		<classes>
 			<class name="testCases.TC1_AccountRegTest" />
-			<class name="testBase.BaseClass" />
+			
 		</classes>
 	</test> <!--
 	Test -->
@@ -36,7 +36,7 @@
 		<parameter name="browser" value="edge" />
 		<classes>
 			<class name="testCases.TC1_AccountRegTest" />
-			<class name="testBase.BaseClass" />
+		
 		</classes>
 	</test> <!--
 	Test -->
